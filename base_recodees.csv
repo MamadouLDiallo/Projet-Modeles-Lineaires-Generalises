@@ -1,0 +1,298 @@
+,age,sex,cp,trestbps,chol,fbs,restecg,thalach,exang,oldpeak,slope,ca,thal,condition
+0,69,Homme,Angine stable,160,234,Oui,Hypertrophie,131,Non,0.1,Stable,Faible,Normal ,Non
+1,69,Femme,Angine stable,140,239,Non,Normal,151,Non,1.8,En hausse,Moyen,Normal ,Non
+2,66,Femme,Angine stable,150,226,Non,Normal,114,Non,2.6,En baisse ,Absence d'anomalie,Normal ,Non
+3,65,Homme,Angine stable,138,282,Oui,Hypertrophie,174,Non,1.4,Stable,Faible,Normal ,Oui
+4,64,Homme,Angine stable,110,211,Non,Hypertrophie,144,Oui,1.8,Stable,Absence d'anomalie,Normal ,Non
+5,64,Homme,Angine stable,170,227,Non,Hypertrophie,155,Non,0.6,Stable,Absence d'anomalie,Réversible,Non
+6,63,Homme,Angine stable,145,233,Oui,Hypertrophie,150,Non,2.3,En baisse ,Absence d'anomalie,Fixe,Non
+7,61,Homme,Angine stable,134,234,Non,Normal,145,Non,2.6,Stable,Moyen,Normal ,Oui
+8,60,Femme,Angine stable,150,240,Non,Normal,171,Non,0.9,En hausse,Absence d'anomalie,Normal ,Non
+9,59,Homme,Angine stable,178,270,Non,Hypertrophie,145,Non,4.2,En baisse ,Absence d'anomalie,Réversible,Non
+10,59,Homme,Angine stable,170,288,Non,Hypertrophie,159,Non,0.2,Stable,Absence d'anomalie,Réversible,Oui
+11,59,Homme,Angine stable,160,273,Non,Hypertrophie,125,Non,0.0,En hausse,Absence d'anomalie,Normal ,Oui
+12,59,Homme,Angine stable,134,204,Non,Normal,162,Non,0.8,En hausse,Moyen,Normal ,Oui
+13,58,Femme,Angine stable,150,283,Oui,Hypertrophie,162,Non,1.0,En hausse,Absence d'anomalie,Normal ,Non
+14,56,Homme,Angine stable,120,193,Non,Hypertrophie,162,Non,1.9,Stable,Absence d'anomalie,Réversible,Non
+15,52,Homme,Angine stable,118,186,Non,Hypertrophie,190,Non,0.0,Stable,Absence d'anomalie,Fixe,Non
+16,52,Homme,Angine stable,152,298,Oui,Normal,178,Non,1.2,Stable,Absence d'anomalie,Réversible,Non
+17,51,Homme,Angine stable,125,213,Non,Hypertrophie,125,Oui,1.4,En hausse,Faible,Normal ,Non
+18,45,Homme,Angine stable,110,264,Non,Normal,132,Non,1.2,Stable,Absence d'anomalie,Réversible,Oui
+19,42,Homme,Angine stable,148,244,Non,Hypertrophie,178,Non,0.8,En hausse,Moyen,Normal ,Non
+20,40,Homme,Angine stable,140,199,Non,Normal,178,Oui,1.4,En hausse,Absence d'anomalie,Réversible,Non
+21,38,Homme,Angine stable,120,231,Non,Normal,182,Oui,3.8,Stable,Absence d'anomalie,Réversible,Oui
+22,34,Homme,Angine stable,118,182,Non,Hypertrophie,174,Non,0.0,En hausse,Absence d'anomalie,Normal ,Non
+23,74,Femme,Angine instable,120,269,Non,Hypertrophie,121,Oui,0.2,En hausse,Faible,Normal ,Non
+24,71,Femme,Angine instable,160,302,Non,Normal,162,Non,0.4,En hausse,Moyen,Normal ,Non
+25,70,Homme,Angine instable,156,245,Non,Hypertrophie,143,Non,0.0,En hausse,Absence d'anomalie,Normal ,Non
+26,66,Homme,Angine instable,160,246,Non,Normal,120,Oui,0.0,Stable,Élevé,Fixe,Oui
+27,63,Femme,Angine instable,140,195,Non,Normal,179,Non,0.0,En hausse,Moyen,Normal ,Non
+28,62,Homme,Angine instable,120,281,Non,Hypertrophie,103,Non,1.4,Stable,Faible,Réversible,Oui
+29,62,Homme,Angine instable,128,208,Oui,Hypertrophie,140,Non,0.0,En hausse,Absence d'anomalie,Normal ,Non
+30,59,Homme,Angine instable,140,221,Non,Normal,164,Oui,0.0,En hausse,Absence d'anomalie,Normal ,Non
+31,58,Homme,Angine instable,120,284,Non,Hypertrophie,160,Non,1.8,Stable,Absence d'anomalie,Normal ,Oui
+32,58,Femme,Angine instable,136,319,Oui,Hypertrophie,152,Non,0.0,En hausse,Moyen,Normal ,Oui
+33,57,Femme,Angine instable,130,236,Non,Hypertrophie,174,Non,0.0,Stable,Faible,Normal ,Oui
+34,57,Homme,Angine instable,124,261,Non,Normal,141,Non,0.3,En hausse,Absence d'anomalie,Réversible,Oui
+35,57,Homme,Angine instable,154,232,Non,Hypertrophie,164,Non,0.0,En hausse,Faible,Normal ,Oui
+36,56,Homme,Angine instable,120,240,Non,Normal,169,Non,0.0,En baisse ,Absence d'anomalie,Normal ,Non
+37,56,Femme,Angine instable,140,294,Non,Hypertrophie,153,Non,1.3,Stable,Absence d'anomalie,Normal ,Non
+38,56,Homme,Angine instable,120,236,Non,Normal,178,Non,0.8,En hausse,Absence d'anomalie,Normal ,Non
+39,56,Homme,Angine instable,130,221,Non,Hypertrophie,163,Non,0.0,En hausse,Absence d'anomalie,Réversible,Non
+40,55,Femme,Angine instable,135,250,Non,Hypertrophie,161,Non,1.4,Stable,Absence d'anomalie,Normal ,Non
+41,55,Homme,Angine instable,130,262,Non,Normal,155,Non,0.0,En hausse,Absence d'anomalie,Normal ,Non
+42,55,Femme,Angine instable,132,342,Non,Normal,166,Non,1.2,En hausse,Absence d'anomalie,Normal ,Non
+43,54,Homme,Angine instable,108,309,Non,Normal,156,Non,0.0,En hausse,Absence d'anomalie,Réversible,Non
+44,54,Femme,Angine instable,132,288,Oui,Hypertrophie,159,Oui,0.0,En hausse,Faible,Normal ,Non
+45,54,Homme,Angine instable,192,283,Non,Hypertrophie,195,Non,0.0,En hausse,Faible,Réversible,Oui
+46,52,Homme,Angine instable,120,325,Non,Normal,172,Non,0.2,En hausse,Absence d'anomalie,Normal ,Non
+47,52,Homme,Angine instable,134,201,Non,Normal,158,Non,0.8,En hausse,Faible,Normal ,Non
+48,52,Homme,Angine instable,128,205,Oui,Normal,184,Non,0.0,En hausse,Absence d'anomalie,Normal ,Non
+49,50,Femme,Angine instable,120,244,Non,Normal,162,Non,1.1,En hausse,Absence d'anomalie,Normal ,Non
+50,49,Femme,Angine instable,134,271,Non,Normal,162,Non,0.0,Stable,Absence d'anomalie,Normal ,Non
+51,49,Homme,Angine instable,130,266,Non,Normal,171,Non,0.6,En hausse,Absence d'anomalie,Normal ,Non
+52,48,Homme,Angine instable,110,229,Non,Normal,168,Non,1.0,En baisse ,Absence d'anomalie,Réversible,Oui
+53,48,Homme,Angine instable,130,245,Non,Hypertrophie,180,Non,0.2,Stable,Absence d'anomalie,Normal ,Non
+54,46,Homme,Angine instable,101,197,Oui,Normal,156,Non,0.0,En hausse,Absence d'anomalie,Réversible,Non
+55,46,Femme,Angine instable,105,204,Non,Normal,172,Non,0.0,En hausse,Absence d'anomalie,Normal ,Non
+56,45,Femme,Angine instable,130,234,Non,Hypertrophie,175,Non,0.6,Stable,Absence d'anomalie,Normal ,Non
+57,45,Femme,Angine instable,112,160,Non,Normal,138,Non,0.0,Stable,Absence d'anomalie,Normal ,Non
+58,45,Homme,Angine instable,128,308,Non,Hypertrophie,170,Non,0.0,En hausse,Absence d'anomalie,Normal ,Non
+59,44,Homme,Angine instable,120,263,Non,Normal,173,Non,0.0,En hausse,Absence d'anomalie,Réversible,Non
+60,44,Homme,Angine instable,130,219,Non,Hypertrophie,188,Non,0.0,En hausse,Absence d'anomalie,Normal ,Non
+61,44,Homme,Angine instable,120,220,Non,Normal,170,Non,0.0,En hausse,Absence d'anomalie,Normal ,Non
+62,42,Homme,Angine instable,120,295,Non,Normal,162,Non,0.0,En hausse,Absence d'anomalie,Normal ,Non
+63,41,Homme,Angine instable,135,203,Non,Normal,132,Non,0.0,Stable,Absence d'anomalie,Fixe,Non
+64,41,Femme,Angine instable,130,204,Non,Hypertrophie,172,Non,1.4,En hausse,Absence d'anomalie,Normal ,Non
+65,41,Femme,Angine instable,105,198,Non,Normal,168,Non,0.0,En hausse,Faible,Normal ,Non
+66,41,Homme,Angine instable,110,235,Non,Normal,153,Non,0.0,En hausse,Absence d'anomalie,Normal ,Non
+67,41,Femme,Angine instable,126,306,Non,Normal,163,Non,0.0,En hausse,Absence d'anomalie,Normal ,Non
+68,41,Homme,Angine instable,120,157,Non,Normal,182,Non,0.0,En hausse,Absence d'anomalie,Normal ,Non
+69,35,Homme,Angine instable,122,192,Non,Normal,174,Non,0.0,En hausse,Absence d'anomalie,Normal ,Non
+70,34,Femme,Angine instable,118,210,Non,Normal,192,Non,0.7,En hausse,Absence d'anomalie,Normal ,Non
+71,29,Homme,Angine instable,130,204,Non,Hypertrophie,202,Non,0.0,En hausse,Absence d'anomalie,Normal ,Non
+72,76,Femme, Autres douleurs,140,197,Non,Anomalies,116,Non,1.1,Stable,Absence d'anomalie,Normal ,Non
+73,71,Femme, Autres douleurs,110,265,Oui,Hypertrophie,130,Non,0.0,En hausse,Faible,Normal ,Non
+74,70,Homme, Autres douleurs,160,269,Non,Normal,112,Oui,2.9,Stable,Faible,Réversible,Oui
+75,69,Homme, Autres douleurs,140,254,Non,Hypertrophie,146,Non,2.0,Stable,Élevé,Réversible,Oui
+76,68,Homme, Autres douleurs,180,274,Oui,Hypertrophie,150,Oui,1.6,Stable,Absence d'anomalie,Réversible,Oui
+77,68,Femme, Autres douleurs,120,211,Non,Hypertrophie,115,Non,1.5,Stable,Absence d'anomalie,Normal ,Non
+78,68,Homme, Autres douleurs,118,277,Non,Normal,151,Non,1.0,En hausse,Faible,Réversible,Non
+79,67,Femme, Autres douleurs,115,564,Non,Hypertrophie,160,Non,1.6,Stable,Absence d'anomalie,Réversible,Non
+80,67,Homme, Autres douleurs,152,212,Non,Hypertrophie,150,Non,0.8,Stable,Absence d'anomalie,Réversible,Oui
+81,67,Femme, Autres douleurs,152,277,Non,Normal,172,Non,0.0,En hausse,Faible,Normal ,Non
+82,66,Femme, Autres douleurs,146,278,Non,Hypertrophie,152,Non,0.0,Stable,Faible,Normal ,Non
+83,65,Femme, Autres douleurs,140,417,Oui,Hypertrophie,157,Non,0.8,En hausse,Faible,Normal ,Non
+84,65,Femme, Autres douleurs,155,269,Non,Normal,148,Non,0.8,En hausse,Absence d'anomalie,Normal ,Non
+85,65,Femme, Autres douleurs,160,360,Non,Hypertrophie,151,Non,0.8,En hausse,Absence d'anomalie,Normal ,Non
+86,64,Homme, Autres douleurs,125,309,Non,Normal,131,Oui,1.8,Stable,Absence d'anomalie,Réversible,Oui
+87,64,Homme, Autres douleurs,140,335,Non,Normal,158,Non,0.0,En hausse,Absence d'anomalie,Normal ,Oui
+88,64,Femme, Autres douleurs,140,313,Non,Normal,133,Non,0.2,En hausse,Absence d'anomalie,Réversible,Non
+89,63,Femme, Autres douleurs,135,252,Non,Hypertrophie,172,Non,0.0,En hausse,Absence d'anomalie,Normal ,Non
+90,62,Homme, Autres douleurs,130,231,Non,Normal,146,Non,1.8,Stable,Élevé,Réversible,Non
+91,62,Femme, Autres douleurs,130,263,Non,Normal,97,Non,1.2,Stable,Faible,Réversible,Oui
+92,61,Homme, Autres douleurs,150,243,Oui,Normal,137,Oui,1.0,Stable,Absence d'anomalie,Normal ,Non
+93,60,Homme, Autres douleurs,140,185,Non,Hypertrophie,155,Non,3.0,Stable,Absence d'anomalie,Normal ,Oui
+94,60,Femme, Autres douleurs,102,318,Non,Normal,160,Non,0.0,En hausse,Faible,Normal ,Non
+95,60,Femme, Autres douleurs,120,178,Oui,Normal,96,Non,0.0,En hausse,Absence d'anomalie,Normal ,Non
+96,59,Homme, Autres douleurs,126,218,Oui,Normal,134,Non,2.2,Stable,Faible,Fixe,Oui
+97,59,Homme, Autres douleurs,150,212,Oui,Normal,157,Non,1.6,En hausse,Absence d'anomalie,Normal ,Non
+98,58,Homme, Autres douleurs,112,230,Non,Hypertrophie,165,Non,2.5,Stable,Faible,Réversible,Oui
+99,58,Homme, Autres douleurs,105,240,Non,Hypertrophie,154,Oui,0.6,Stable,Absence d'anomalie,Réversible,Non
+100,58,Homme, Autres douleurs,132,224,Non,Hypertrophie,173,Non,3.2,En hausse,Moyen,Réversible,Oui
+101,58,Femme, Autres douleurs,120,340,Non,Normal,172,Non,0.0,En hausse,Absence d'anomalie,Normal ,Non
+102,58,Homme, Autres douleurs,140,211,Oui,Hypertrophie,165,Non,0.0,En hausse,Absence d'anomalie,Normal ,Non
+103,57,Homme, Autres douleurs,128,229,Non,Hypertrophie,150,Non,0.4,Stable,Faible,Réversible,Oui
+104,57,Homme, Autres douleurs,150,168,Non,Normal,174,Non,1.6,En hausse,Absence d'anomalie,Normal ,Non
+105,57,Homme, Autres douleurs,150,126,Oui,Normal,173,Non,0.2,En hausse,Faible,Réversible,Non
+106,56,Homme, Autres douleurs,130,256,Oui,Hypertrophie,142,Oui,0.6,Stable,Faible,Fixe,Oui
+107,54,Homme, Autres douleurs,125,273,Non,Hypertrophie,152,Non,0.5,En baisse ,Faible,Normal ,Non
+108,54,Homme, Autres douleurs,120,258,Non,Hypertrophie,147,Non,0.4,Stable,Absence d'anomalie,Réversible,Non
+109,54,Femme, Autres douleurs,110,214,Non,Normal,158,Non,1.6,Stable,Absence d'anomalie,Normal ,Non
+110,54,Femme, Autres douleurs,135,304,Oui,Normal,170,Non,0.0,En hausse,Absence d'anomalie,Normal ,Non
+111,54,Homme, Autres douleurs,150,232,Non,Hypertrophie,165,Non,1.6,En hausse,Absence d'anomalie,Réversible,Non
+112,54,Femme, Autres douleurs,108,267,Non,Hypertrophie,167,Non,0.0,En hausse,Absence d'anomalie,Normal ,Non
+113,54,Femme, Autres douleurs,160,201,Non,Normal,163,Non,0.0,En hausse,Faible,Normal ,Non
+114,53,Homme, Autres douleurs,130,197,Oui,Hypertrophie,152,Non,1.2,En baisse ,Absence d'anomalie,Normal ,Non
+115,53,Homme, Autres douleurs,130,246,Oui,Hypertrophie,173,Non,0.0,En hausse,Élevé,Normal ,Non
+116,52,Femme, Autres douleurs,136,196,Non,Hypertrophie,169,Non,0.1,Stable,Absence d'anomalie,Normal ,Non
+117,52,Homme, Autres douleurs,172,199,Oui,Normal,162,Non,0.5,En hausse,Absence d'anomalie,Réversible,Non
+118,51,Homme, Autres douleurs,100,222,Non,Normal,143,Oui,1.2,Stable,Absence d'anomalie,Normal ,Non
+119,51,Homme, Autres douleurs,125,245,Oui,Hypertrophie,166,Non,2.4,Stable,Absence d'anomalie,Normal ,Non
+120,51,Homme, Autres douleurs,110,175,Non,Normal,123,Non,0.6,En hausse,Absence d'anomalie,Normal ,Non
+121,51,Femme, Autres douleurs,140,308,Non,Hypertrophie,142,Non,1.5,En hausse,Faible,Normal ,Non
+122,51,Femme, Autres douleurs,130,256,Non,Hypertrophie,149,Non,0.5,En hausse,Absence d'anomalie,Normal ,Non
+123,51,Homme, Autres douleurs,94,227,Non,Normal,154,Oui,0.0,En hausse,Faible,Réversible,Non
+124,51,Femme, Autres douleurs,120,295,Non,Hypertrophie,157,Non,0.6,En hausse,Absence d'anomalie,Normal ,Non
+125,50,Femme, Autres douleurs,120,219,Non,Normal,158,Non,1.6,Stable,Absence d'anomalie,Normal ,Non
+126,50,Homme, Autres douleurs,140,233,Non,Normal,163,Non,0.6,Stable,Faible,Réversible,Oui
+127,50,Homme, Autres douleurs,129,196,Non,Normal,163,Non,0.0,En hausse,Absence d'anomalie,Normal ,Non
+128,49,Homme, Autres douleurs,120,188,Non,Normal,139,Non,2.0,Stable,Élevé,Réversible,Oui
+129,49,Homme, Autres douleurs,118,149,Non,Hypertrophie,126,Non,0.8,En hausse,Élevé,Normal ,Oui
+130,48,Femme, Autres douleurs,130,275,Non,Normal,139,Non,0.2,En hausse,Absence d'anomalie,Normal ,Non
+131,48,Homme, Autres douleurs,124,255,Oui,Normal,175,Non,0.0,En hausse,Moyen,Normal ,Non
+132,47,Homme, Autres douleurs,138,257,Non,Hypertrophie,156,Non,0.0,En hausse,Absence d'anomalie,Normal ,Non
+133,47,Homme, Autres douleurs,108,243,Non,Normal,152,Non,0.0,En hausse,Absence d'anomalie,Normal ,Oui
+134,47,Homme, Autres douleurs,130,253,Non,Normal,179,Non,0.0,En hausse,Absence d'anomalie,Normal ,Non
+135,46,Femme, Autres douleurs,142,177,Non,Hypertrophie,160,Oui,1.4,En baisse ,Absence d'anomalie,Normal ,Non
+136,46,Homme, Autres douleurs,150,231,Non,Normal,147,Non,3.6,Stable,Absence d'anomalie,Normal ,Oui
+137,44,Femme, Autres douleurs,108,141,Non,Normal,175,Non,0.6,Stable,Absence d'anomalie,Normal ,Non
+138,44,Femme, Autres douleurs,118,242,Non,Normal,149,Non,0.3,Stable,Faible,Normal ,Non
+139,44,Homme, Autres douleurs,130,233,Non,Normal,179,Oui,0.4,En hausse,Absence d'anomalie,Normal ,Non
+140,44,Homme, Autres douleurs,140,235,Non,Hypertrophie,180,Non,0.0,En hausse,Absence d'anomalie,Normal ,Non
+141,44,Homme, Autres douleurs,120,226,Non,Normal,169,Non,0.0,En hausse,Absence d'anomalie,Normal ,Non
+142,43,Femme, Autres douleurs,122,213,Non,Normal,165,Non,0.2,Stable,Absence d'anomalie,Normal ,Non
+143,43,Homme, Autres douleurs,130,315,Non,Normal,162,Non,1.9,En hausse,Faible,Normal ,Non
+144,42,Homme, Autres douleurs,120,240,Oui,Normal,194,Non,0.8,En baisse ,Absence d'anomalie,Réversible,Non
+145,42,Femme, Autres douleurs,120,209,Non,Normal,173,Non,0.0,Stable,Absence d'anomalie,Normal ,Non
+146,42,Homme, Autres douleurs,130,180,Non,Normal,150,Non,0.0,En hausse,Absence d'anomalie,Normal ,Non
+147,41,Homme, Autres douleurs,130,214,Non,Hypertrophie,168,Non,2.0,Stable,Absence d'anomalie,Normal ,Non
+148,41,Homme, Autres douleurs,112,250,Non,Normal,179,Non,0.0,En hausse,Absence d'anomalie,Normal ,Non
+149,41,Femme, Autres douleurs,112,268,Non,Hypertrophie,172,Oui,0.0,En hausse,Absence d'anomalie,Normal ,Non
+150,39,Femme, Autres douleurs,138,220,Non,Normal,152,Non,0.0,Stable,Absence d'anomalie,Normal ,Non
+151,39,Homme, Autres douleurs,140,321,Non,Hypertrophie,182,Non,0.0,En hausse,Absence d'anomalie,Normal ,Non
+152,39,Femme, Autres douleurs,94,199,Non,Normal,179,Non,0.0,En hausse,Absence d'anomalie,Normal ,Non
+153,37,Homme, Autres douleurs,130,250,Non,Normal,187,Non,3.5,En baisse ,Absence d'anomalie,Normal ,Non
+154,37,Femme, Autres douleurs,120,215,Non,Normal,170,Non,0.0,En hausse,Absence d'anomalie,Normal ,Non
+155,77,Homme,Asymptomatique,125,304,Non,Hypertrophie,162,Oui,0.0,En hausse,Élevé,Normal ,Oui
+156,71,Femme,Asymptomatique,112,149,Non,Normal,125,Non,1.6,Stable,Absence d'anomalie,Normal ,Non
+157,70,Homme,Asymptomatique,145,174,Non,Normal,125,Oui,2.6,En baisse ,Absence d'anomalie,Réversible,Oui
+158,70,Homme,Asymptomatique,130,322,Non,Hypertrophie,109,Non,2.4,Stable,Élevé,Normal ,Oui
+159,68,Homme,Asymptomatique,144,193,Oui,Normal,141,Non,3.4,Stable,Moyen,Réversible,Oui
+160,67,Homme,Asymptomatique,160,286,Non,Hypertrophie,108,Oui,1.5,Stable,Élevé,Normal ,Oui
+161,67,Homme,Asymptomatique,120,229,Non,Hypertrophie,129,Oui,2.6,Stable,Moyen,Réversible,Oui
+162,67,Homme,Asymptomatique,125,254,Oui,Normal,163,Non,0.2,Stable,Moyen,Réversible,Oui
+163,67,Homme,Asymptomatique,100,299,Non,Hypertrophie,125,Oui,0.9,Stable,Moyen,Normal ,Oui
+164,67,Homme,Asymptomatique,120,237,Non,Normal,71,Non,1.0,Stable,Absence d'anomalie,Normal ,Oui
+165,67,Femme,Asymptomatique,106,223,Non,Normal,142,Non,0.3,En hausse,Moyen,Normal ,Non
+166,66,Homme,Asymptomatique,120,302,Non,Hypertrophie,151,Non,0.4,Stable,Absence d'anomalie,Normal ,Non
+167,66,Femme,Asymptomatique,178,228,Oui,Normal,165,Oui,1.0,Stable,Moyen,Réversible,Oui
+168,66,Homme,Asymptomatique,112,212,Non,Hypertrophie,132,Oui,0.1,En hausse,Faible,Normal ,Oui
+169,66,Homme,Asymptomatique,160,228,Non,Hypertrophie,138,Non,2.3,En hausse,Absence d'anomalie,Fixe,Non
+170,65,Femme,Asymptomatique,150,225,Non,Hypertrophie,114,Non,1.0,Stable,Élevé,Réversible,Oui
+171,65,Homme,Asymptomatique,135,254,Non,Hypertrophie,127,Non,2.8,Stable,Faible,Réversible,Oui
+172,65,Homme,Asymptomatique,120,177,Non,Normal,140,Non,0.4,En hausse,Absence d'anomalie,Réversible,Non
+173,65,Homme,Asymptomatique,110,248,Non,Hypertrophie,158,Non,0.6,En hausse,Moyen,Fixe,Oui
+174,64,Homme,Asymptomatique,120,246,Non,Hypertrophie,96,Oui,2.2,En baisse ,Faible,Normal ,Oui
+175,64,Homme,Asymptomatique,145,212,Non,Hypertrophie,132,Non,2.0,Stable,Moyen,Fixe,Oui
+176,64,Femme,Asymptomatique,130,303,Non,Normal,122,Non,2.0,Stable,Moyen,Normal ,Non
+177,64,Homme,Asymptomatique,128,263,Non,Normal,105,Oui,0.2,Stable,Faible,Réversible,Non
+178,64,Femme,Asymptomatique,180,325,Non,Normal,154,Oui,0.0,En hausse,Absence d'anomalie,Normal ,Non
+179,63,Homme,Asymptomatique,130,254,Non,Hypertrophie,147,Non,1.4,Stable,Faible,Réversible,Oui
+180,63,Femme,Asymptomatique,150,407,Non,Hypertrophie,154,Non,4.0,Stable,Élevé,Réversible,Oui
+181,63,Femme,Asymptomatique,108,269,Non,Normal,169,Oui,1.8,Stable,Moyen,Normal ,Oui
+182,63,Femme,Asymptomatique,124,197,Non,Normal,136,Oui,0.0,Stable,Absence d'anomalie,Normal ,Oui
+183,63,Homme,Asymptomatique,130,330,Oui,Hypertrophie,132,Oui,1.8,En hausse,Élevé,Réversible,Oui
+184,63,Homme,Asymptomatique,140,187,Non,Hypertrophie,144,Oui,4.0,En hausse,Moyen,Réversible,Oui
+185,62,Femme,Asymptomatique,140,268,Non,Hypertrophie,160,Non,3.6,En baisse ,Moyen,Normal ,Oui
+186,62,Femme,Asymptomatique,160,164,Non,Hypertrophie,145,Non,6.2,En baisse ,Élevé,Réversible,Oui
+187,62,Homme,Asymptomatique,120,267,Non,Normal,99,Oui,1.8,Stable,Moyen,Réversible,Oui
+188,62,Femme,Asymptomatique,140,394,Non,Hypertrophie,157,Non,1.2,Stable,Absence d'anomalie,Normal ,Non
+189,62,Femme,Asymptomatique,138,294,Oui,Normal,106,Non,1.9,Stable,Élevé,Normal ,Oui
+190,62,Femme,Asymptomatique,150,244,Non,Normal,154,Oui,1.4,Stable,Absence d'anomalie,Normal ,Oui
+191,62,Femme,Asymptomatique,124,209,Non,Normal,163,Non,0.0,En hausse,Absence d'anomalie,Normal ,Non
+192,61,Homme,Asymptomatique,120,260,Non,Normal,140,Oui,3.6,Stable,Faible,Réversible,Oui
+193,61,Femme,Asymptomatique,145,307,Non,Hypertrophie,146,Oui,1.0,Stable,Absence d'anomalie,Réversible,Oui
+194,61,Homme,Asymptomatique,138,166,Non,Hypertrophie,125,Oui,3.6,Stable,Faible,Normal ,Oui
+195,61,Femme,Asymptomatique,130,330,Non,Hypertrophie,169,Non,0.0,En hausse,Absence d'anomalie,Normal ,Oui
+196,61,Homme,Asymptomatique,140,207,Non,Hypertrophie,138,Oui,1.9,En hausse,Faible,Réversible,Oui
+197,61,Homme,Asymptomatique,148,203,Non,Normal,161,Non,0.0,En hausse,Faible,Réversible,Oui
+198,60,Homme,Asymptomatique,130,206,Non,Hypertrophie,132,Oui,2.4,Stable,Moyen,Réversible,Oui
+199,60,Homme,Asymptomatique,145,282,Non,Hypertrophie,142,Oui,2.8,Stable,Moyen,Réversible,Oui
+200,60,Homme,Asymptomatique,125,258,Non,Hypertrophie,141,Oui,2.8,Stable,Faible,Réversible,Oui
+201,60,Femme,Asymptomatique,150,258,Non,Hypertrophie,157,Non,2.6,Stable,Moyen,Réversible,Oui
+202,60,Homme,Asymptomatique,140,293,Non,Hypertrophie,170,Non,1.2,Stable,Moyen,Réversible,Oui
+203,60,Homme,Asymptomatique,117,230,Oui,Normal,160,Oui,1.4,En hausse,Moyen,Réversible,Oui
+204,60,Homme,Asymptomatique,130,253,Non,Normal,144,Oui,1.4,En hausse,Faible,Réversible,Oui
+205,60,Femme,Asymptomatique,158,305,Non,Hypertrophie,161,Non,0.0,En hausse,Absence d'anomalie,Normal ,Oui
+206,59,Homme,Asymptomatique,170,326,Non,Hypertrophie,140,Oui,3.4,En baisse ,Absence d'anomalie,Réversible,Oui
+207,59,Homme,Asymptomatique,135,234,Non,Normal,161,Non,0.5,Stable,Absence d'anomalie,Réversible,Non
+208,59,Homme,Asymptomatique,110,239,Non,Hypertrophie,142,Oui,1.2,Stable,Faible,Réversible,Oui
+209,59,Femme,Asymptomatique,174,249,Non,Normal,143,Oui,0.0,Stable,Absence d'anomalie,Normal ,Oui
+210,59,Homme,Asymptomatique,164,176,Oui,Hypertrophie,90,Non,1.0,Stable,Moyen,Fixe,Oui
+211,59,Homme,Asymptomatique,140,177,Non,Normal,162,Oui,0.0,En hausse,Faible,Réversible,Oui
+212,59,Homme,Asymptomatique,138,271,Non,Hypertrophie,182,Non,0.0,En hausse,Absence d'anomalie,Normal ,Non
+213,58,Homme,Asymptomatique,114,318,Non,Anomalies,140,Non,4.4,En baisse ,Élevé,Fixe,Oui
+214,58,Homme,Asymptomatique,128,216,Non,Hypertrophie,131,Oui,2.2,Stable,Élevé,Réversible,Oui
+215,58,Femme,Asymptomatique,100,248,Non,Hypertrophie,122,Non,1.0,Stable,Absence d'anomalie,Normal ,Non
+216,58,Homme,Asymptomatique,128,259,Non,Hypertrophie,130,Oui,3.0,Stable,Moyen,Réversible,Oui
+217,58,Homme,Asymptomatique,146,218,Non,Normal,105,Non,2.0,Stable,Faible,Réversible,Oui
+218,58,Femme,Asymptomatique,130,197,Non,Normal,131,Non,0.6,Stable,Absence d'anomalie,Normal ,Non
+219,58,Femme,Asymptomatique,170,225,Oui,Hypertrophie,146,Oui,2.8,Stable,Moyen,Fixe,Oui
+220,58,Homme,Asymptomatique,150,270,Non,Hypertrophie,111,Oui,0.8,En hausse,Absence d'anomalie,Réversible,Oui
+221,58,Homme,Asymptomatique,125,300,Non,Hypertrophie,171,Non,0.0,En hausse,Moyen,Réversible,Oui
+222,58,Homme,Asymptomatique,100,234,Non,Normal,156,Non,0.1,En hausse,Faible,Réversible,Oui
+223,57,Homme,Asymptomatique,140,192,Non,Normal,148,Non,0.4,Stable,Absence d'anomalie,Fixe,Non
+224,57,Homme,Asymptomatique,150,276,Non,Hypertrophie,112,Oui,0.6,Stable,Faible,Fixe,Oui
+225,57,Homme,Asymptomatique,165,289,Oui,Hypertrophie,124,Non,1.0,Stable,Élevé,Réversible,Oui
+226,57,Homme,Asymptomatique,152,274,Non,Normal,88,Oui,1.2,Stable,Faible,Réversible,Oui
+227,57,Homme,Asymptomatique,110,201,Non,Normal,126,Oui,1.5,Stable,Absence d'anomalie,Fixe,Non
+228,57,Homme,Asymptomatique,110,335,Non,Normal,143,Oui,3.0,Stable,Faible,Réversible,Oui
+229,57,Femme,Asymptomatique,140,241,Non,Normal,123,Oui,0.2,Stable,Absence d'anomalie,Réversible,Oui
+230,57,Homme,Asymptomatique,130,131,Non,Normal,115,Oui,1.2,Stable,Faible,Réversible,Oui
+231,57,Femme,Asymptomatique,120,354,Non,Normal,163,Oui,0.6,En hausse,Absence d'anomalie,Normal ,Non
+232,57,Femme,Asymptomatique,128,303,Non,Hypertrophie,159,Non,0.0,En hausse,Faible,Normal ,Non
+233,57,Homme,Asymptomatique,132,207,Non,Normal,168,Oui,0.0,En hausse,Absence d'anomalie,Réversible,Non
+234,56,Femme,Asymptomatique,200,288,Oui,Hypertrophie,133,Oui,4.0,En baisse ,Moyen,Réversible,Oui
+235,56,Homme,Asymptomatique,130,283,Oui,Hypertrophie,103,Oui,1.6,En baisse ,Absence d'anomalie,Réversible,Oui
+236,56,Homme,Asymptomatique,125,249,Oui,Hypertrophie,144,Oui,1.2,Stable,Faible,Normal ,Oui
+237,56,Homme,Asymptomatique,132,184,Non,Hypertrophie,105,Oui,2.1,Stable,Faible,Fixe,Oui
+238,56,Femme,Asymptomatique,134,409,Non,Hypertrophie,150,Oui,1.9,Stable,Moyen,Réversible,Oui
+239,55,Homme,Asymptomatique,140,217,Non,Normal,111,Oui,5.6,En baisse ,Absence d'anomalie,Réversible,Oui
+240,55,Homme,Asymptomatique,132,353,Non,Normal,132,Oui,1.2,Stable,Faible,Réversible,Oui
+241,55,Homme,Asymptomatique,160,289,Non,Hypertrophie,145,Oui,0.8,Stable,Faible,Réversible,Oui
+242,55,Femme,Asymptomatique,180,327,Non,Anomalies,117,Oui,3.4,Stable,Absence d'anomalie,Normal ,Oui
+243,55,Femme,Asymptomatique,128,205,Non,Anomalies,130,Oui,2.0,Stable,Faible,Réversible,Oui
+244,54,Homme,Asymptomatique,124,266,Non,Hypertrophie,109,Oui,2.2,Stable,Faible,Réversible,Oui
+245,54,Homme,Asymptomatique,120,188,Non,Normal,113,Non,1.4,Stable,Faible,Réversible,Oui
+246,54,Homme,Asymptomatique,110,239,Non,Normal,126,Oui,2.8,Stable,Faible,Réversible,Oui
+247,54,Homme,Asymptomatique,110,206,Non,Hypertrophie,108,Oui,0.0,Stable,Faible,Normal ,Oui
+248,54,Homme,Asymptomatique,122,286,Non,Hypertrophie,116,Oui,3.2,Stable,Moyen,Normal ,Oui
+249,54,Homme,Asymptomatique,140,239,Non,Normal,160,Non,1.2,En hausse,Absence d'anomalie,Normal ,Non
+250,53,Homme,Asymptomatique,140,203,Oui,Hypertrophie,155,Oui,3.1,En baisse ,Absence d'anomalie,Réversible,Oui
+251,53,Femme,Asymptomatique,130,264,Non,Hypertrophie,143,Non,0.4,Stable,Absence d'anomalie,Normal ,Non
+252,53,Homme,Asymptomatique,123,282,Non,Normal,95,Oui,2.0,Stable,Moyen,Réversible,Oui
+253,53,Femme,Asymptomatique,138,234,Non,Hypertrophie,160,Non,0.0,En hausse,Absence d'anomalie,Normal ,Non
+254,53,Homme,Asymptomatique,142,226,Non,Hypertrophie,111,Oui,0.0,En hausse,Absence d'anomalie,Réversible,Non
+255,52,Homme,Asymptomatique,128,255,Non,Normal,161,Oui,0.0,En hausse,Faible,Réversible,Oui
+256,52,Homme,Asymptomatique,108,233,Oui,Normal,147,Non,0.1,En hausse,Élevé,Réversible,Non
+257,52,Homme,Asymptomatique,112,230,Non,Normal,160,Non,0.0,En hausse,Faible,Normal ,Oui
+258,52,Homme,Asymptomatique,125,212,Non,Normal,168,Non,1.0,En hausse,Moyen,Réversible,Oui
+259,51,Femme,Asymptomatique,130,305,Non,Normal,142,Oui,1.2,Stable,Absence d'anomalie,Réversible,Oui
+260,51,Homme,Asymptomatique,140,298,Non,Normal,122,Oui,4.2,Stable,Élevé,Réversible,Oui
+261,51,Homme,Asymptomatique,140,261,Non,Hypertrophie,186,Oui,0.0,En hausse,Absence d'anomalie,Normal ,Non
+262,51,Homme,Asymptomatique,140,299,Non,Normal,173,Oui,1.6,En hausse,Absence d'anomalie,Réversible,Oui
+263,50,Homme,Asymptomatique,150,243,Non,Hypertrophie,128,Non,2.6,Stable,Absence d'anomalie,Réversible,Oui
+264,50,Homme,Asymptomatique,144,200,Non,Hypertrophie,126,Oui,0.9,Stable,Absence d'anomalie,Réversible,Oui
+265,50,Femme,Asymptomatique,110,254,Non,Hypertrophie,159,Non,0.0,En hausse,Absence d'anomalie,Normal ,Non
+266,49,Femme,Asymptomatique,130,269,Non,Normal,163,Non,0.0,En hausse,Absence d'anomalie,Normal ,Non
+267,48,Homme,Asymptomatique,124,274,Non,Hypertrophie,166,Non,0.5,Stable,Absence d'anomalie,Réversible,Oui
+268,48,Homme,Asymptomatique,122,222,Non,Hypertrophie,186,Non,0.0,En hausse,Absence d'anomalie,Normal ,Non
+269,48,Homme,Asymptomatique,130,256,Oui,Hypertrophie,150,Oui,0.0,En hausse,Moyen,Réversible,Oui
+270,47,Homme,Asymptomatique,110,275,Non,Hypertrophie,118,Oui,1.0,Stable,Faible,Normal ,Oui
+271,47,Homme,Asymptomatique,112,204,Non,Normal,143,Non,0.1,En hausse,Absence d'anomalie,Normal ,Non
+272,46,Femme,Asymptomatique,138,243,Non,Hypertrophie,152,Oui,0.0,Stable,Absence d'anomalie,Normal ,Non
+273,46,Homme,Asymptomatique,140,311,Non,Normal,120,Oui,1.8,Stable,Moyen,Réversible,Oui
+274,46,Homme,Asymptomatique,120,249,Non,Hypertrophie,144,Non,0.8,En hausse,Absence d'anomalie,Réversible,Oui
+275,45,Homme,Asymptomatique,104,208,Non,Hypertrophie,148,Oui,3.0,Stable,Absence d'anomalie,Normal ,Non
+276,45,Femme,Asymptomatique,138,236,Non,Hypertrophie,152,Oui,0.2,Stable,Absence d'anomalie,Normal ,Non
+277,45,Homme,Asymptomatique,142,309,Non,Hypertrophie,147,Oui,0.0,Stable,Élevé,Réversible,Oui
+278,45,Homme,Asymptomatique,115,260,Non,Hypertrophie,185,Non,0.0,En hausse,Absence d'anomalie,Normal ,Non
+279,44,Homme,Asymptomatique,120,169,Non,Normal,144,Oui,2.8,En baisse ,Absence d'anomalie,Fixe,Oui
+280,44,Homme,Asymptomatique,112,290,Non,Hypertrophie,153,Non,0.0,En hausse,Faible,Normal ,Oui
+281,44,Homme,Asymptomatique,110,197,Non,Hypertrophie,177,Non,0.0,En hausse,Faible,Normal ,Oui
+282,43,Homme,Asymptomatique,120,177,Non,Hypertrophie,120,Oui,2.5,Stable,Absence d'anomalie,Réversible,Oui
+283,43,Femme,Asymptomatique,132,341,Oui,Hypertrophie,136,Oui,3.0,Stable,Absence d'anomalie,Réversible,Oui
+284,43,Homme,Asymptomatique,115,303,Non,Normal,181,Non,1.2,Stable,Absence d'anomalie,Normal ,Non
+285,43,Homme,Asymptomatique,150,247,Non,Normal,171,Non,1.5,En hausse,Absence d'anomalie,Normal ,Non
+286,43,Homme,Asymptomatique,110,211,Non,Normal,161,Non,0.0,En hausse,Absence d'anomalie,Réversible,Non
+287,42,Femme,Asymptomatique,102,265,Non,Hypertrophie,122,Non,0.6,Stable,Absence d'anomalie,Normal ,Non
+288,42,Homme,Asymptomatique,136,315,Non,Normal,125,Oui,1.8,Stable,Absence d'anomalie,Fixe,Oui
+289,42,Homme,Asymptomatique,140,226,Non,Normal,178,Non,0.0,En hausse,Absence d'anomalie,Normal ,Non
+290,41,Homme,Asymptomatique,110,172,Non,Hypertrophie,158,Non,0.0,En hausse,Absence d'anomalie,Réversible,Oui
+291,40,Homme,Asymptomatique,110,167,Non,Hypertrophie,114,Oui,2.0,Stable,Absence d'anomalie,Réversible,Oui
+292,40,Homme,Asymptomatique,152,223,Non,Normal,181,Non,0.0,En hausse,Absence d'anomalie,Réversible,Oui
+293,39,Homme,Asymptomatique,118,219,Non,Normal,140,Non,1.2,Stable,Absence d'anomalie,Réversible,Oui
+294,35,Homme,Asymptomatique,120,198,Non,Normal,130,Oui,1.6,Stable,Absence d'anomalie,Réversible,Oui
+295,35,Femme,Asymptomatique,138,183,Non,Normal,182,Non,1.4,En hausse,Absence d'anomalie,Normal ,Non
+296,35,Homme,Asymptomatique,126,282,Non,Hypertrophie,156,Oui,0.0,En hausse,Absence d'anomalie,Réversible,Oui
